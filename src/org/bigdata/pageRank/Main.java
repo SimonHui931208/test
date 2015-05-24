@@ -12,7 +12,4 @@ public class Main {
 			HadoopUtil.deleteFile("/output");
 		}
 	}
-	
-	String  str = "";
-	str
 }
